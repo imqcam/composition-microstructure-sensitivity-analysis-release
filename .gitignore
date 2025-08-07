@@ -2,6 +2,7 @@
 *.DS_Store
 # the big data file stays local
 Phase\ fraction\ data.hdf5
+Phase\ fraction\ data_v2.hdf5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
